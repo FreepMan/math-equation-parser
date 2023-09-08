@@ -10,3 +10,8 @@ The parser will produce an AST that will support variables (i.e. you will be abl
 There will be also an optional UI for graph plotter and simple calculator.
 
 The README.md will go into detail how the parser works and what you should know.
+
+
+# Deadlines
+
+The main part of the project (that is, well written theory and parser implementation) should probably be done in 2 or 3 weeks.
