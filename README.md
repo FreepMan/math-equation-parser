@@ -14,4 +14,4 @@ The README.md will go into detail how the parser works and what you should know.
 
 # Deadlines
 
-The main part of the project (that is, well written theory and parser implementation) should probably be done in 2 or 3 weeks.
+The project is undefinitely postponed
