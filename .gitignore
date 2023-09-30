@@ -1,0 +1,5 @@
+.cache
+*.o
+*.d
+compile_commands.json
+bin*
