@@ -4,12 +4,13 @@
 #include "../tree/node.h"
 
 struct Token;
-typedef double (*func_type)(Node<Token>); 
+typedef double (*func_type)(Node<Token> *t); 
 
 enum class TokenType {
     Operator,
     Number,
-    Function
+    Function,
+    Discard
 };
 
 struct Token
